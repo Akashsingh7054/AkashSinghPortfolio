@@ -1,6 +1,7 @@
 # [Akash Singh's Portfolio](https://github.com/Akashsingh7054/)
 
-![Akash Singh's Portfolio-image]()
+! [Akash Portfolio Logo](./src/images/portfolio-logo.png)
+
 
 
 🚀 Welcome to my latest portfolio project! 🚀
