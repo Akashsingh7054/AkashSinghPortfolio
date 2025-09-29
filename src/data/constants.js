@@ -98,7 +98,7 @@ export const education = [
   {
     id: 1,
     img: "gyandeep.jpg",
-    school: "St. Mary’s Sr. Sec. School  , Jhansi",
+    school: "St. Mary’s Sr. Sec. School  ",
     // date: "2021 - 2022",
     grade: " 90.2%",
     desc: "I completed my Intermediate at St. Mary’s Sr. Sec. School  , Jhansi where I studied Maths, Physics and Chemistry stream.",
@@ -107,7 +107,7 @@ export const education = [
   {
     id: 2,
     img: "gyandeep.jpg",
-    school: "St. Mary’s Sr. Sec. School  , Jhansi",
+    school: "St. Mary’s Sr. Sec. School ",
     //date: "2019-2020",
     grade: "88%",
     desc: "I completed my class 10 education at St. Mary’s Sr. Sec. School  , Jhansi.",
